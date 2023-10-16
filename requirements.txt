@@ -19,7 +19,7 @@ scipy
 tensorboard
 wandb
 transformers==4.30.2
-langchain==0.0.197
+langchain==0.0.315
 chromadb==0.3.23
 urllib3==2.0.2
 PyMuPDF==1.22.3
